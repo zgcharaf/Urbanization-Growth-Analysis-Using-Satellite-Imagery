@@ -1,6 +1,4 @@
-Here's your README with added emojis for a more engaging and visually appealing presentation:
-
----
+![Urban Growth Analysis](path/to/your/Header_1.png)
 
 # Urbanization Growth Analysis Using Satellite Imagery 🌍🛰️
 
@@ -63,7 +61,3 @@ TBD
 ## License 📜
 
 MIT Licence
-
----
-
-This version should make your README more engaging and accessible, with the use of emojis to visually break down the sections and highlight key points.
