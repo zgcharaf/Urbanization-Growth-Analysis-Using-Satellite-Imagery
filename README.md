@@ -9,7 +9,7 @@ This project aims to analyze the patterns of urban growth and its impact on home
 ## Data Collection 🗃️
 
 ### Sources
-- **Google Earth Engine** 🌐: Satellite images for the city of Tangier, Morocco collected monthly from January 2015 to December 2017.
+- **Google Earth Engine** 🌐: Satellite images for the city of Tangier, Morocco collected monthly from January 2015 to May 2024.
 
 ### Data Description
 Each image in the dataset captures:
