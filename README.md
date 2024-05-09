@@ -27,6 +27,9 @@ Each image in the dataset captures:
 
 The project employs various predictive models to estimate urban growth trends a year after the last collected data. These models help in understanding potential impacts on home prices and urban planning.
 
+## Data 
+The data will be made available upon request.
+
 ## Installation 💻
 
 Clone this repository to your local machine using:
