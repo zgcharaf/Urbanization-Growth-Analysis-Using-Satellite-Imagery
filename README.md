@@ -1,6 +1,6 @@
 
 # Urbanization Growth Analysis Using Satellite Imagery 🌍🛰️
-![Urban Growth Analysis](path/to/your/Header_1.png)
+![Urban Growth Analysis](Header_1.png)
 
 ## Project Overview 📌
 
